@@ -1,7 +1,3 @@
-# Wao Exam Portal APIs
-
-API documentation [Wao Exam Portal APIs documentation](https://documenter.getpostman.com/view/20916811/UzBsH4mt)
-
 Follow installation guide.
 
 ## Installation
@@ -38,6 +34,6 @@ $ npm run build
 $ npm run email-check
 ```
 
-  View the website at: http://localhost:3001
+View the website at: http://localhost:4000
 
 
